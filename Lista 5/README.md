@@ -7,4 +7,4 @@
 <li>Celem gry jest wyjście z labiryntu</li>
 </ul>
 <b>Widok z gry:</b></br>
-<img src="./Lista 5/Zrzut ekranu.png" alt="widok" />
+<img src="./Zrzut ekranu.png" alt="widok" />
